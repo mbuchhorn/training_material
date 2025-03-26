@@ -1,0 +1,639 @@
+﻿eunis_level,eunis_code,eunis_name,raster_value
+1,M,Marine benthic habitats,10000
+2,MA1,Littoral rock,10100
+3,MA11,Arctic littoral rock,10101
+3,MA12,Atlantic littoral rock,10102
+3,MA13,Baltic hydrolittoral rock,10103
+3,MA14,Black sea littoral rock,10104
+3,MA15,Mediterranean littoral rock,10105
+2,MA2,Littoral biogenic habitat,10200
+3,MA21,Arctic Littoral biogenic habitat,10201
+3,MA22,Atlantic littoral biogenic habitat,10202
+3,MA23,Baltic hydrolittoral biogenic habitat,10203
+3,MA24,Black sea littoral biogenic habitat,10204
+3,MA25,Mediterranean littoral biogenic habitat,10205
+2,MA3,Littoral coarse sediment,10300
+3,MA31,Arctic littoral coarse sediment,10301
+3,MA32,Atlantic littoral coarse sediment,10302
+3,MA33,Baltic hydrolittoral coarse sediment,10303
+3,MA34,Black sea littoral coarse sediment,10304
+3,MA35,Mediterranean littoral coarse sediment,10305
+2,MA4,Littoral mixed sediment,10400
+3,MA41,Arctic littoral mixed sediment,10401
+3,MA42,Atlantic littoral mixed sediment,10402
+3,MA43,Baltic hydrolittoral mixed sediment,10403
+3,MA44,Black Sea littoral mixed sediment,10404
+3,MA45,Mediterranean littoral mixed sediment,10405
+2,MA5,Littoral sand,10500
+3,MA51,Arctic littoral sand,10501
+3,MA52,Atlantic littoral sand,10502
+3,MA53,Baltic hydrolittoral sand,10503
+3,MA54,Black sea littoral sand,10504
+3,MA55,Mediterranean littoral sand,10505
+2,MA6,Littoral mud,10600
+3,MA61,Arctic littoral mud,10601
+3,MA62,Atlantic littoral mud,10602
+3,MA63,Baltic hydrolittoral mud,10603
+3,MA64,Black Sea littoral mud,10604
+3,MA65,Mediterranean littoral mud,10605
+2,MB1,Infralittoral rock,10700
+3,MB11,Arctic infralittoral rock,10701
+3,MB12,Atlantic infralittoral rock,10702
+3,MB13,Baltic infralittoral rock,10703
+3,MB14,Black Sea infralittoral rock,10704
+3,MB15,Mediterranean infralittoral rock,10705
+2,MB2,Infralittoral biogenic habitat,10800
+3,MB21,Arctic infralittoral biogenic habitat,10801
+3,MB22,Atlantic infralittoral biogenic habitat,10802
+3,MB23,Baltic infralittoral biogenic habitat,10803
+3,MB24,Black Sea infralittoral biogenic habitat,10804
+3,MB25,Mediterranean infralittoral biogenic habitat,10805
+2,MB3,Infralittoral coarse sediment,10900
+3,MB31,Arctic infralittoral coarse sediment,10901
+3,MB32,Atlantic infralittoral coarse sediment,10902
+3,MB33,Baltic infralittoral coarse sediment,10903
+3,MB34,Black Sea infralittoral coarse sediment,10904
+3,MB35,Mediterranean infralittoral coarse sediment,10905
+2,MB4,infralittoral mixed sediment,11000
+3,MB41,Arctic infralittoral mixed sediment,11001
+3,MB42,Atlantic infralittoral mixed sediment,11002
+3,MB43,Baltic infralittoral mixed sediment,11003
+3,MB44,Black Sea infralittoral mixed sediment,11004
+3,MB45,Mediterranean infralittoral mixed sediment,11005
+2,MB5,Infralittoral sand,11100
+3,MB51,Arctic infralittoral sand,11101
+3,MB52,Atlantic infralittoral sand,11102
+3,MB53,Baltic infralittoral sand,11103
+3,MB54,Black Sea infralittoral sand,11104
+3,MB55,Mediterranean infralittoral sand,11105
+2,MB6,Infralittoral mud,11200
+3,MB61,Arctic infralittoral mud,11201
+3,MB62,Atlantic infralittoral mud,11202
+3,MB63,Baltic infralittoral mud,11203
+3,MB64,Black Sea infralittoral mud,11204
+3,MB65,Mediterranean infralittoral mud,11205
+2,MC1,Circalittoral rock,11300
+3,MC11,Arctic circalittoral rock,11301
+3,MC12,Atlantic circalittoral rock,11302
+3,MC13,Baltic ciralittoral rock,11303
+3,MC14,Black Sea circalittoral rock,11304
+3,MC15,Mediterranean circalittoral rock,11305
+2,MC2,Circalittoral biogenic habitat,11400
+3,MC21,Arctic circalittoral biogenic habitat,11401
+3,MC22,Atlantic circalittoral biogenic habitat,11402
+3,MC23,Baltic circalittoral biogenic habitat,11403
+3,MC24,Black Sea circalittoral biogenic habitat,11404
+3,MC25,Mediterranean circalittoral biogenic habitat,11405
+2,MC3,Circalittoral coarse sediment,11500
+3,MC31,Arctic circalittoral coarse sediment,11501
+3,MC32,Atlantic circalittoral coarse sediment,11502
+3,MC33,Baltic circalittoral coarse sediment,11503
+3,MC34,Black Sea circalittoral coarse sediment,11504
+3,MC35,Mediterranean circalittoral coarse sediment,11505
+2,MC4,Circalittoral mixed sediment,11600
+3,MC41,Arctic circalittoral mixed sediment,11601
+3,MC42,Atlantic circalittoral mixed sediment,11602
+3,MC43,Baltic circalittoral mixed sediment,11603
+3,MC44,Black Sea circalittoral mixed sediment,11604
+3,MC45,Mediterranean circalittoral mixed sediment,11605
+2,MC5,Circalittoral sand,11700
+3,MC51,Arctic circalittoral sand,11701
+3,MC52,Atlantic circalittoral sand,11702
+3,MC53,Baltic circalittoral sand,11703
+3,MC54,Black Sea circalittoral sand,11704
+3,MC55,Mediterranean circalittoral sand,11705
+2,MC6,Circalittoral mud,11800
+3,MC61,Arctic circalittoral mud,11801
+3,MC62,Atlantic circalittoral mud,11802
+3,MC63,Baltic circalittoral mud,11803
+3,MC64,Black Sea circalittoral mud,11804
+3,MC65,Mediterranean circalittoral mud,11805
+2,MD1,Offshore circalittoral rock,11900
+3,MD11,Arctic offshore circalittoral rock,11901
+3,MD12,Atlantic offshore circalittoral rock,11902
+3,MD13,Baltic offshore circalittoral rock,11903
+3,MD14,Black Sea offshore circalittoral rock,11904
+3,MD15,Mediterranean offshore circalittoral rock,11905
+2,MD2,Offshore circalittoral biogenic habitat,12000
+3,MD21,Arctic offshore circalittoral biogenic habitat,12001
+3,MD22,Atlantic offshore circalittoral biogenic habitat,12002
+3,MD23,Baltic offshore circalittoral biogenic habitat,12003
+3,MD24,Black Sea offshore circalittoral biogenic habitat,12004
+3,MD25,Mediterranean offshore circalittoral biogenic habitat,12005
+2,MD3,Offshore circalittoral coarse sediment,12100
+3,MD31,Arctic offshore circalittoral coarse sediment,12101
+3,MD32,Atlantic offshore circalittoral coarse sediment,12102
+3,MD33,Baltic offshore circalittoral coarse sediment,12103
+3,MD34,Black Sea offshore circalittoral coarse sediment,12104
+3,MD35,Mediterranean offshore circalittoral coarse sediment,12105
+2,MD4,Offshore circalittoral mixed sediment,12200
+3,MD41,Arctic offshore circalittoral mixed sediment,12201
+3,MD42,Atlantic offshore circalittoral mixed sediment,12202
+3,MD43,Baltic offshore circalittoral mixed sediment,12203
+3,MD44,Black Sea offshore circalittoral mixed sediment,12204
+3,MD45,Mediterranean offshore circalittoral mixed sediment,12205
+2,MD5,Offshore circalittoral sand,12300
+3,MD51,Arctic offshore circalittoral sand,12301
+3,MD52,Atlantic offshore circalittoral sand,12302
+3,MD53,Baltic offshore circalittoral sand,12303
+3,MD54,Black Sea offshore circalittoral sand,12304
+3,MD55,Mediterranean offshore circalittoral sand,12305
+2,MD6,Offshore circalittoral mud,12400
+3,MD61,Arctic offshore circalittoral mud,12401
+3,MD62,Atlantic offshore circalittoral mud,12402
+3,MD63,Baltic offshore circalittoral mud,12403
+3,MD64,Black Sea offshore circalittoral mud,12404
+3,MD65,Mediterranean offshore circalittoral mud,12405
+2,ME1,Upper bathyal rock,12500
+3,ME11,Arctic upper bathyal rock,12501
+3,ME12,Atlantic upper bathyal rock,12502
+3,ME14,Black Sea upper bathyal rock,12503
+3,ME15,Mediterranean upper bathyal rock,12504
+2,ME2,Upper bathyal biogenic habitat,12600
+3,ME21,Arctic upper bathyal biogenic habitat,12601
+3,ME22,Atlantic upper bathyal biogenic habitat,12602
+3,ME24,Black Sea upper bathyal biogenic habitat,12603
+3,ME25,Mediterranean Upper bathyal biogenic habitat,12604
+2,ME3,Upper bathyal coarse sediment,12700
+3,ME31,Arctic upper bathyal coarse sediment,12701
+3,ME32,Atlantic upper bathyal coarse sediment,12702
+3,ME34,Black Sea upper bathyal coarse sediment,12703
+3,ME35,Mediterranean upper bathyal coarse sediment,12704
+2,ME4,Upper bathyal mixed sediment,12800
+3,ME41,Arctic upper bathyal mixed sediment,12801
+3,ME42,Atlantic upper bathyal mixed sediment,12802
+3,ME44,Black Sea upper bathyal mixed sediment,12803
+3,ME45,Mediterranean upper bathyal mixed sediment,12804
+2,ME5,Upper Bathyal sand,12900
+3,ME51,Arctic upper bathyal sand,12901
+3,ME52,Atlantic upper bathyal sand,12902
+3,ME54,Black Sea upper bathyal sand,12903
+3,ME55,Mediterranean upper bathyal sand,12904
+2,ME6,Upper Bathyal mud,13000
+3,ME61,Arctic upper bathyal mud,13001
+3,ME62,Atlantic upper bathyal mud,13002
+3,ME64,Black Sea upper bathyal mud,13003
+3,ME65,Mediterranean upper bathyal mud,13004
+2,MF1,Lower bathyal rock,13100
+3,MF11,Arctic lower bathyal rock,13101
+3,MF12,Atlantic lower bathyal rock,13102
+3,MF14,Black Sea lower bathyal rock,13103
+3,MF15,Mediterranean lower bathyal rock,13104
+2,MF2,Lower bathyal biogenic habitat,13200
+3,MF21,Arctic lower bathyal biogenic habitat,13201
+3,MF22,Atlantic lower bathyal biogenic habitat,13202
+3,MF24,Black Sea lower bathyal biogenic habitat,13203
+3,MF25,Mediterranean lower bathyal biogenic habitat,13204
+2,MF3,Lower bathyal coarse sediment,13300
+3,MF31,Arctic lower bathyal coarse sediment,13301
+3,MF32,Atlantic lower bathyal coarse sediment,13302
+3,MF34,Black Sea lower bathyal coarse sediment,13303
+3,MF35,Mediterranean lower bathyal coarse sediment,13304
+2,MF4,Lower bathyal mixed sediment,13400
+3,MF41,Arctic lower bathyal mixed sediment,13401
+3,MF42,Atlantic lower bathyal mixed sediment,13402
+3,MF44,Black Sea lower bathyal mixed sediment,13403
+3,MF45,Mediterranean lower bathyal mixed sediment,13404
+2,MF5,Lower bathyal sand,13500
+3,MF51,Arctic lower bathyal sand,13501
+3,MF52,Atlantic lower bathyal sand,13502
+3,MF54,Black Sea lower bathyal sand,13503
+3,MF55,Mediterranean lower bathyal sand,13504
+2,MF6,Lower bathyal mud,13600
+3,MF61,Arctic lower bathyal mud,13601
+3,MF62,Atlantic lower bathyal mud,13602
+3,MF64,Black Sea lower bathyal mud,13603
+3,MF65,Mediterranean lower bathyal mud,13604
+2,MG1,Abyssal rock,13700
+3,MG11,Arctic abyssal rock,13701
+3,MG12,Atlantic abyssal rock,13702
+3,MG14,Black Sea abyssal rock,13703
+3,MG15,Mediterranean abyssal rock,13704
+2,MG2,Abyssal biogenic habitat,13800
+3,MG21,Arctic abyssal biogenic habitat,13801
+3,MG22,Atlantic abyssal biogenic habitat,13802
+3,MG24,Black Sea abyssal biogenic habitat,13803
+3,MG25,Mediterranean abyssal biogenic habitat,13804
+2,MG3,Abyssal coarse sediment,13900
+3,MG31,Arctic abyssal coarse sediment,13901
+3,MG32,Atlantic abyssal coarse sediment,13902
+3,MG34,Black Sea abyssal coarse sediment,13903
+3,MG35,Mediterranean abyssal coarse sediment,13904
+2,MG4,Abyssal mixed sediment,14000
+3,MG41,Arctic abyssal mixed sediment,14001
+3,MG42,Atlantic abyssal mixed sediment,14002
+3,MG44,Black Sea abyssal mixed sediment,14003
+3,MG45,Mediterranean abyssal mixed sediment,14004
+2,MG5,Abyssal sand,14100
+3,MG51,Arctic abyssal sand,14101
+3,MG52,Atlantic abyssal sand,14102
+3,MG54,Black Sea abyssal sand,14103
+3,MG55,Mediterranean abyssal sand,14104
+2,MG6,Abyssal mud,14200
+3,MG61,Arctic abyssal mud,14201
+3,MG62,Atlantic abyssal mud,14202
+3,MG64,Black Sea abyssal mud,14203
+3,MG65,Mediterranean abyssal mud,14204
+1,MH,Pelagic water column,20000
+2,MH1,Neuston,20100
+3,MH11,Arctic neuston,20101
+3,MH12,Atlantic neuston,20102
+3,MH13,Baltic neuston,20103
+3,MH14,Black Sea neuston,20104
+3,MH15,Mediterranean neuston,20105
+2,MH2,Completely mixed water column with reduced salinity,20200
+3,MH21,Arctic completely mixed water column with reduced salinity,20201
+3,MH22,Atlantic completely mixed water column with reduced salinity,20202
+3,MH23,Baltic completely mixed water column with reduced salinity,20203
+3,MH24,Black Sea completely mixed water column with reduced salinity,20204
+3,MH25,Mediterranean completely mixed water column with reduced salinity,20205
+2,MH3,Completely mixed water column with full salinity,20300
+3,MH31,Arctic completely mixed water column with full salinity,20301
+3,MH32,Atlantic completely mixed water column with full salinity,20302
+3,MH33,Baltic completely mixed water column with full salinity,20303
+3,MH34,Black Sea completely mixed water column with full salinity,20304
+3,MH35,Mediterranean completely  mixed water column with full salinity,20305
+2,MH4,Partially mixed water column with reduced salinity and medium or long residence time,20400
+3,MH41,Arctic partially mixed water column with reduced salinity and medium or long residence time,20401
+3,MH42,Atlantic partially mixed water column with reduced salinity and medium or long residence time,20402
+3,MH43,Baltic partially mixed water column with reduced salinity and medium or long residence time,20403
+3,MH44,Black Sea partially mixed water column with reduced salinity and medium or long residence time,20404
+3,MH45,Mediterranean partially mixed water column with reduced salinity and medium or long residence time,20405
+2,MH5,Unstratified water column with reduced salinity,20500
+3,MH51,Arctic unstratified water column with reduced salinity,20501
+3,MH52,Atlantic unstratified water column with reduced salinity,20502
+3,MH53,Baltic unstratified water column with reduced salinity,20503
+3,MH54,Black Sea unstratified water column with reduced salinity,20504
+3,MH55,Mediterranean unstratified water column with reduced salinity,20505
+2,MH6,Vertically stratified water column with reduced salinity,20600
+3,MH61,Arctic vertically stratified water column with reduced salinity,20601
+3,MH62,Atlantic vertically stratified water column with reduced salinity,20602
+3,MH63,Baltic vertically stratified water column with reduced salinity,20603
+3,MH64,Black Sea vertically stratified water column with reduced salinity,20604
+3,MH65,Mediterranean vertically stratified water column with reduced salinity,20605
+2,MH7,Fronts in reduced salinity water column,20700
+3,MH71,Arctic fronts in reduced salinity water column,20701
+3,MH72,Atlantic fronts in reduced salinity water column,20702
+3,MH73,Baltic fronts in reduced salinity water column,20703
+3,MH74,Black Sea fronts in reduced salinity water column,20704
+3,MH75,Mediterranean fronts in reduced salinity water column,20705
+2,MH8,Unstratified water column with full salinity,20800
+3,MH81,Arctic unstratified water column with full salinity,20801
+3,MH82,Atlantic unstratified water column with full salinity,20802
+3,MH83,Baltic unstratified water column with full salinity,20803
+3,MH84,Black Sea unstratified water column with full salinity,20804
+3,MH85,Mediterranean unstratified water column with full salinity,20805
+2,MH9,Vertically stratified water column with full salinity,20900
+3,MH91,Arctic vertically stratified water column with full salinity,20901
+3,MH92,Atlantic vertically stratified water column with full salinity,20902
+3,MH93,Baltic vertically stratified water column with full salinity,20903
+3,MH94,Black Sea vertically stratified water column with full salinity,20904
+3,MH95,Mediterranean vertically stratified water column with full salinity,20905
+2,MHA,Fronts in full salinity water column,21000
+3,MHA1,Arctic fronts in full salinity water column,21001
+3,MHA2,Atlantic fronts in full salinity water column,21002
+3,MHA3,Baltic fronts in full salinity water column,21003
+3,MHA4,Black Sea fronts in full salinity water column,21004
+3,MHA5,Mediterranean fronts in full salinity water column,21005
+1,MJ,Ice-associated marine habitats,30000
+2,MJ1,Sea ice,30100
+3,MJ11,Arctic sea ice,30101
+3,MJ12,Baltic sea ice,30102
+2,MJ2,Freshwater ice,30200
+3,MJ21,Arctic freshwater ice,30201
+2,MJ3,Brine channels,30300
+3,MJ31,Arctic brine channels,30301
+3,MJ32,Baltic brine channels,30302
+2,MJ4,Under-ice habitat,30400
+3,MJ41,Arctic under-ice habitat,30401
+3,MJ42,Baltic under-ice habitat,30402
+1,N,Coastal habitats ,40000
+2,N1,Coastal dunes and sandy shores ,40100
+3,N11,Atlantic and Baltic and Arctic sand beach,40101
+3,N12,Mediterranean and Black Sea sand beach,40102
+3,N13 ,Atlantic and Baltic shifting coastal dune,40103
+3,N14,Mediterranean and Macaronesian and Black Sea shifting coastal dune,40104
+3,N15,Atlantic and Baltic coastal dune grassland (grey dune),40105
+3,N16,Mediterranean and Macaronesian coastal dune grassland (grey dune),40106
+3,N17,Black Sea coastal dune grassland (grey dune),40107
+3,N18,Atlantic and Baltic coastal Empetrum heath,40108
+3,N19,Atlantic coastal Calluna and Ulex heath,40109
+3,N1A,Atlantic and Baltic coastal dune scrub,40110
+3,N1B,Mediterranean and Black Sea coastal dune scrub,40111
+3,N1C,Macaronesian coastal dune scrub,40112
+3,N1D,Atlantic and Baltic broad-leaved coastal dune forest,40113
+3,N1E,Black Sea broad-leaved coastal dune forest,40114
+3,N1F,Baltic coniferous coastal dune forest,40115
+3,N1G,Mediterranean coniferous coastal dune forest,40116
+3,N1H,Atlantic and Baltic moist and wet dune slack,40117
+3,N1J,Mediterranean and Black Sea moist and wet dune slack,40118
+2,N2,Coastal shingle,40200
+3,N21,Atlantic and Baltic and Arctic coastal shingle beach,40201
+3,N22,Mediterranean and Black Sea coastal shingle beach,40202
+2,N3,Rock cliffs & ledges and shores including the supralittoral ,40300
+3,N31,Atlantic and Baltic rocky sea cliff and shore,40301
+3,N32,Mediterranean and Black Sea rocky sea cliff and shore,40302
+3,N33,Macaronesian rocky sea cliff and shore,40303
+3,N34,Atlantic and Baltic soft sea cliff,40304
+3,N35,Mediterranean and Black Sea soft sea cliff,40305
+1,Q,Wetlands,50000
+2,Q1,Raised and blanket bogs ,50100
+3,Q11,Raised bog,50101
+3,Q12 ,Blanket bog,50102
+3,Q13,Ombrotrophic percolation mire,50103
+2,Q2,Valley mires & poor fens and transition mires ,50200
+3,Q21,Oceanic valley mire,50201
+3,Q22,Poor fen,50202
+3,Q23,Relict mire of Mediterranean mountains ,50203
+3,Q24,Intermediate fen and soft-water spring mire,50204
+3,Q25,Non-calcareous quaking mire,50205
+2,Q3,Palsa mires ,50300
+3,Q31,Palsa mire,50301
+2,Q4,Base-rich fens and calcareous spring mires,50400
+3,Q41,Alkaline calcareous carbonate-rich small-sedge spring fen,50401
+3,Q42,Extremely rich moss-sedge fen,50402
+3,Q43,Tall-sedge base-rich fen,50403
+3,Q44,Calcareous quaking mire,50404
+3,Q45,Arctic-alpine rich fen,50405
+3,Q46,Carpathian travertine fen with halophytes,50406
+2,Q5,Helophyte beds,50500
+3,Q51,Tall-helophyte bed,50501
+3,Q52,Small-helophyte bed,50502
+3,Q53,Tall-sedge bed,50503
+3,Q54,Inland saline or brackish helophyte bed ,50504
+2,Q6,Periodically exposed shores,50600
+3,Q61,Periodically exposed shore with stable and eutrophic sediments with pioneer or ephemeral vegetation,50601
+3,Q62,Periodically exposed shore with stable and mesotrophic sediments with pioneer or ephemeral vegetation,50602
+3,Q63,Periodically exposed saline shore with pioneer or ephemeral vegetation,50603
+1,R,Grasslands and lands dominated by forbs or mosses or lichens,60000
+2,R1,Dry grasslands,60100
+3,R11,Pannonian and Pontic sandy steppe,60101
+3,R12,Cryptogam- and annual-dominated vegetation on siliceous rock outcrops ,60102
+3,R13,Cryptogam- and annual-dominated vegetation on calcareous and ultramafic rock outcrops,60103
+3,R14,Perennial rocky grassland of the Italian Peninsula ,60104
+3,R15,Continental dry rocky steppic grassland and dwarf scrub on chalk outcrops,60105
+3,R16,Perennial rocky grassland of Central and South-Eastern Europe,60106
+3,R17,Heavy-metal dry grassland of the Balkans,60107
+3,R18,Perennial rocky calcareous grassland of subatlantic-submediterranean Europe,60108
+3,R19,Dry steppic submediterranean pasture of the Amphi-Adriatic region,60109
+3,R1A,Semi-dry perennial calcareous grassland (meadow steppe),60110
+3,R1B,Continental dry grassland (true steppe),60111
+3,R1C,Desert steppe,60112
+3,R1D,Mediterranean closely grazed dry grassland,60113
+3,R1E,Mediterranean tall perennial dry grassland,60114
+3,R1F,Mediterranean annual-rich dry grassland,60115
+3,R1G,Iberian oromediterranean siliceous dry grassland,60116
+3,R1H,Iberian oromediterranean basiphilous dry grassland,60117
+3,R1J,Cyrno-Sardean oromediterranean siliceous dry grassland,60118
+3,R1K,Balkan and Anatolian oromediterranean dry grassland,60119
+3,R1L,Madeiran oromediterranean siliceous dry grassland,60120
+3,R1M,Lowland to montane dry to mesic grassland usually dominated by Nardus stricta,60121
+3,R1N,Open Iberian supramediterranean dry acid and neutral grassland ,60122
+3,R1P,Oceanic to subcontinental inland sand grassland on dry acid and neutral soils,60123
+3,R1Q,Inland sanddrift and dune with siliceous grassland,60124
+3,R1R,Mediterranean to Atlantic open dry acid and neutral grassland ,60125
+3,R1S,Heavy-metal grassland in Western and Central Europe ,60126
+3,R1T,Azorean open dry acid to neutral grassland,60127
+2,R2,Mesic grasslands ,60200
+3,R21,Mesic permanent pasture of lowlands and mountains,60201
+3,R22,Low and medium altitude hay meadow,60202
+3,R23,Mountain hay meadow,60203
+3,R24,Iberian summer pasture (vallicar),60204
+2,R3,Seasonally wet and wet grasslands ,60300
+3,R31,Mediterranean tall humid inland grassland,60301
+3,R32,Mediterranean short moist grassland of lowlands,60302
+3,R33,Mediterranean short moist grassland of mountains,60303
+3,R34,Submediterranean moist meadow,60304
+3,R35,Moist or wet mesotrophic to eutrophic hay meadow,60305
+3,R36,Moist or wet mesotrophic to eutrophic pasture,60306
+3,R37,Temperate and boreal moist or wet oligotrophic grassland,60307
+2,R4,Alpine and subalpine grasslands ,60400
+3,R41,Snow-bed vegetation,60401
+3,R42,Boreal and arctic acidophilous alpine grassland ,60402
+3,R43,Temperate acidophilous alpine grassland ,60403
+3,R44,Arctic-alpine calcareous grassland,60404
+3,R45,Alpine and subalpine calcareous grassland of the Balkans and Apennines,60405
+2,R5,Forest fringes and clearings and tall forb stands ,60500
+3,R51,Thermophilous forest fringe of base-rich soils,60501
+3,R52,Forest fringe of acidic nutrient-poor soils,60502
+3,R53,Macaronesian thermophilous forest fringe,60503
+3,R54,Pteridium aquilinum vegetation,60504
+3,R55,Lowland moist or wet tall-herb and fern fringe,60505
+3,R56,Montane to subalpine moist or wet tall-herb and fern fringe,60506
+3,R57,Herbaceous forest clearing vegetation,60507
+2,R6,Inland salt steppes and salt marshes,60600
+3,R61,Mediterranean inland salt steppe,60601
+3,R62,Continental inland salt steppe,60602
+3,R63,Temperate inland salt marsh,60603
+3,R64,Semi-desert salt pan,60604
+3,R65,Continental subsaline alluvial pasture and meadow,60605
+2,R7,Sparsely wooded grasslands ,60700
+3,R71,Temperate wooded pasture and meadow,60701
+3,R72,Hemiboreal and boreal wooded pasture and meadow,60702
+3,R73,Mediterranean wooded pasture and meadow,60703
+1,S,Heathland & scrub and tundra,70000
+2,S1,Tundra,70100
+3,S11,Shrub tundra  ,70101
+3,S12,Moss and lichen tundra  ,70102
+2,S2,Arctic & alpine and subalpine scrub,70200
+3,S21,Subarctic and alpine dwarf Salix scrub  ,70201
+3,S22,Alpine and subalpine ericoid heath  ,70202
+3,S23,Alpine and subalpine Juniperus scrub  ,70203
+3,S24,Subalpine genistoid scrub of the Amphi-Adriatic region,70204
+3,S25,Subalpine and subarctic deciduous scrub  ,70205
+3,S26,Subalpine Pinus mugo scrub,70206
+3,S27,Krummholz with conifers other than Pinus mugo,70207
+2,S3,Temperate and mediterranean-montane scrub,70300
+3,S31,Lowland to montane temperate and submediterranean Juniperus scrub  ,70301
+3,S32,Temperate Rubus scrub  ,70302
+3,S33,Lowland to montane temperate and submediterranean genistoid scrub  ,70303
+3,S34,Balkan-Anatolian submontane genistoid scrub,70304
+3,S35,Temperate and submediterranean thorn scrub  ,70305
+3,S36,Low steppic scrub  ,70306
+3,S37,Corylus avellana scrub,70307
+3,S38,Temperate forest clearing scrub,70308
+2,S4,Temperate shrub heathland,70400
+3,S41,Wet heath,70401
+3,S42,Dry heath,70402
+3,S43,Macaronesian heath,70403
+2,S5,Maquis arborescent matorral and thermo-Mediterranean scrub,70500
+3,S51,Mediterranean maquis and arborescent matorral,70501
+3,S52,Submediterranean pseudomaquis  ,70502
+3,S53,Spartium junceum scrub,70503
+3,S54,Thermomediterranean arid scrub  ,70504
+2,S6,Garrigue,70600
+3,S61,Western basiphilous garrigue ,70601
+3,S62,Western acidophilous garrigue ,70602
+3,S63,Eastern garrigue  ,70603
+3,S64,Macaronesian garrigue,70604
+3,S65,Mediterranean gypsum scrub  ,70605
+3,S66,Mediterranean halo-nitrophilous scrub  ,70606
+3,S67,Aralo-Caspian semi-desert,70607
+3,S68,Semi-desert sand dune with sparse scrub,70608
+2,S7,Spiny Mediterranean heaths (phrygana hedgehog-heaths and related coastal cliff vegetation) ,70700
+3,S71,Western Mediterranean spiny heath,70701
+3,S72,Eastern Mediterranean spiny heath (phrygana) ,70702
+3,S73,Western Mediterranean mountain hedgehog-heath,70703
+3,S74,Central Mediterranean mountain hedgehog-heath,70704
+3,S75,Eastern Mediterranean mountain hedgehog-heath,70705
+3,S76,Canarian mountain hedgehog-heath,70706
+2,S8,Thermo-Atlantic xerophytic scrub,70800
+3,S81,Canarian xerophytic scrub ,70801
+3,S82,Madeiran xerophytic scrub,70802
+2,S9,Riverine and fen scrubs,70900
+3,S91,Temperate riparian scrub,70901
+3,S92,Salix fen scrub ,70902
+3,S93,Mediterranean riparian scrub ,70903
+3,S94,Semi-desert riparian scrub,70904
+1,T,Forest and other wooded land,80000
+2,T1,Deciduous broadleaved forest,80100
+3,T11,Temperate Salix and Populus riparian forest,80101
+3,T12,Alnus glutinosa-Alnus incana forest on riparian and mineral soils,80102
+3,T13,Temperate hardwood riparian forest,80103
+3,T14,Mediterranean and Macaronesian riparian forest,80104
+3,T15,Broadleaved swamp forest on non-acid peat,80105
+3,T16,Broadleaved mire forest on acid peat,80106
+3,T17,Fagus forest on non-acid soils,80107
+3,T18,Fagus forest on acid soils,80108
+3,T19,Temperate and submediterranean thermophilous deciduous forest,80109
+3,T1A,Mediterranean thermophilous deciduous forest,80110
+3,T1B,Acidophilous Quercus forest,80111
+3,T1C,Temperate and boreal mountain Betula and Populus tremula forest on mineral soils ,80112
+3,T1D,Southern European mountain Betula and Populus tremula forest on mineral soils,80113
+3,T1E,Carpinus and Quercus mesic deciduous forest,80114
+3,T1F,Ravine forest,80115
+3,T1G,Alnus cordata forest,80116
+3,T1H,Broadleaved deciduous plantation of non site-native trees,80117
+3,T1J,Deciduous self sown forest of non site-native trees,80118
+3,T1K,Broadleaved deciduous plantation of site-native trees,80119
+2,T2,Broadleaved evergreen forest,80200
+3,T21,Mediterranean evergreen Quercus forest,80201
+3,T22,Mainland laurophyllous forest,80202
+3,T23,Macaronesian laurophyllous forest,80203
+3,T24,Olea europaea-Ceratonia siliqua forest ,80204
+3,T25,Phoenix theophrasti vegetation,80205
+3,T26,Phoenix canariensis vegetation,80206
+3,T27,Ilex aquifolium forest,80207
+3,T28,Macaronesian heathy forest,80208
+3,T29,Broadleaved evergreen plantation of non site-native trees,80209
+3,T2A,Broadleaved evergreen plantation of site-native trees,80210
+2,T3,Coniferous forest,80300
+3,T31,Temperate mountain Picea forest,80301
+3,T32,Temperate mountain Abies forest,80302
+3,T33,Mediterranean mountain Abies forest,80303
+3,T34,Temperate subalpine Larix & Pinus cembra and Pinus uncinata forest,80304
+3,T35,Temperate continental Pinus sylvestris forest,80305
+3,T36,Temperate and submediterranean montane Pinus sylvestris-Pinus nigra forest,80306
+3,T37,Mediterranean montane Pinus sylvestris-Pinus nigra forest,80307
+3,T38,Mediterranean montane Cedrus forest,80308
+3,T39,Mediterranean and Balkan subalpine Pinus heldreichii-Pinus peuce forest,80309
+3,T3A,Mediterranean lowland to submontane Pinus forest,80310
+3,T3B,Pinus canariensis forest,80311
+3,T3C,Taxus baccata forest,80312
+3,T3D,Mediterranean Cupressaceae forest,80313
+3,T3E,Macaronesian Juniperus forest,80314
+3,T3F,Dark taiga,80315
+3,T3G,Pinus sylvestris light taiga,80316
+3,T3H,Larix light taiga,80317
+3,T3J,Pinus and Larix mire forest,80318
+3,T3K,Picea mire forest,80319
+3,T3L,Coniferous self sown forest of non site-native trees,80320
+3,T3M,Coniferous plantation of non site-native trees,80321
+3,T3N,Coniferous plantation of site-native trees,80322
+2,T4,Lines of trees or small anthropogenic forests or recently felled forest or early-stage forest and coppice,80400
+3,T41,Early-stage natural and semi-natural forest and regrowth,80401
+3,T42,Coppice and early stage plantations,80402
+3,T43,Recently felled areas,80403
+1,U,Inland habitats with no or little soil and mostly with sparse vegetation,90000
+2,U1,Terrestrial underground caves or cave systems or passages and waterbodies ,90100
+3,U11,Cave,90101
+3,U12,Disused underground mines and tunnels,90102
+2,U2,Screes,90200
+3,U21,Boreal and arctic siliceous scree and block field,90201
+3,U22,Temperate high-mountain siliceous scree,90202
+3,U23,Temperate lowland to montane siliceous scree,90203
+3,U24,Mediterranean siliceous scree,90204
+3,U25,Boreal and arctic base-rich scree and block field,90205
+3,U26,Temperate high-mountain base-rich scree and moraine,90206
+3,U27,Temperate lowland to montane base-rich scree,90207
+3,U28,Western Mediterranean base-rich scree,90208
+3,U29,Eastern Mediterranean base-rich scree,90209
+3,U2A,Crimean base-rich screes,90210
+2,U3,Inland cliffs or rock pavements and outcrops ,90300
+3,U31,Boreal and arctic siliceous inland cliff,90301
+3,U32,Temperate high-mountain siliceous inland cliff,90302
+3,U33,Temperate lowland to montane siliceous inland cliff,90303
+3,U34,Mediterranean siliceous inland cliff,90304
+3,U35,Boreal and arctic base-rich inland cliff,90305
+3,U36,Temperate high-mountain base-rich inland cliff,90306
+3,U37,Temperate lowland to montane base-rich inland cliff,90307
+3,U38,Mediterranean base-rich inland cliff,90308
+3,U39,Boreal ultramafic inland cliff,90309
+3,U3A,Temperate ultramafic inland cliff,90310
+3,U3B,Mediterranean ultramafic inland cliff,90311
+3,U3C,Macaronesian inland cliff,90312
+3,U3D ,Wet inland cliff,90313
+3,U3E,Limestone pavement,90314
+2,U4,Snow or ice-dominated habitats ,90400
+3,U41,Snow pack,90401
+3,U42,Ice cap and glacier,90402
+3,U43,Rock glacier and unvegetated ice-dominated moraine,90403
+2,U5,Miscellaneous inland habitats usually with very sparse or no vegetation ,90500
+3,U51,Wind exposed Arctic and Boreal summits,90501
+3,U52,Polar desert,90502
+3,U53,Glacial moraines with very sparse or no vegetation,90503
+2,U6,Recent volcanic features ,90600
+3,U61,Subarctic volcanic field ,90601
+3,U62,Mediterranean Macaronesian and temperate volcanic field,90602
+2,U7,Unvegetated or sparsely vegetated gravel bars ,90700
+3,U71,Unvegetated or sparsely vegetated gravel bars in montane and alpine regions,90701
+3,U72,Unvegetated or sparsely vegetated gravel bars in the Mediterranean region,90702
+1,V,Vegetated man-made habitats,100000
+2,V1,Arable land and market gardens,100100
+3,V1x,Cropland,100106
+3,V11,Intensive unmixed crops,100101
+3,V12,Mixed crops of market gardens and horticulture,100102
+3,V13,Arable land with unmixed crops grown by low-intensity agricultural methods,100103
+3,V14,Inundated or inundatable croplands including rice fields,100104
+3,V15,Bare tilled or fallow or recently abandoned arable land,100105
+2,V2,Cultivated areas of gardens and parks ,100200
+3,V21,Large-scale ornamental garden areas,100201
+3,V22,Small-scale ornamental and domestic garden areas,100202
+3,V23,Recently abandoned garden areas,100203
+2,V3,Artificial grasslands and herb dominated habitats,100300
+3,V31,Agriculturally-improved or re-seeded and heavily fertilised grassland including sports fields and grasslawns,100301
+3,V32,Mediterranean subnitrophilous annual grasslands,100302
+3,V33,Dry mediterranean lands with unpalatable non-vernal herbaceous vegetation ,100303
+3,V34,Trampled xeric grasslands with annuals,100304
+3,V35,Trampled mesophilous grasslands with annuals,100305
+3,V36,Alpine and subalpine enriched grassland,100306
+3,V37,Annual anthropogenic herbaceous vegetation,100307
+3,V38,Dry perennial anthropogenic herbaceous vegetation,100308
+3,V39,Mesic perennial anthropogenic herbaceous vegetation,100309
+2,V4,Hedgerows ,100400
+3,V41,Hedgerows of non-native species ,100401
+3,V42,Highly-managed hedgerows of native species ,100402
+3,V43,Species-rich hedgerows of native species ,100403
+3,V44,Species-poor hedgerows of native species,100404
+2,V5,Shrub plantations ,100500
+3,V51,Shrub plantations for whole-plant harvesting,100501
+3,V52,Shrub plantations for leaf or branch harvest,100502
+3,V53,Shrub plantations for ornamental purposes or for fruit other than vineyards,100503
+3,V54,Vineyards,100504
+2,V6,Tree dominated man-made habitats,100600
+3,V61,Broadleaved fruit and nut tree orchards,100601
+3,V62,Evergreen orchards and groves,100602
+3,V63,Lines of planted trees,100603
+3,V64,Small deciduous broadleaved planted other wooded land ,100604
+3,V65,Small evergreen broadleaved planted other wooded land ,100605
+3,V66,Small coniferous planted other wooded land ,100606
+1,C,Inland surface waters,110000
+2,C1,Surface standing waters,110100
+2,C2,Surface running waters,110200
+1,J,Constructed industrial and other artificial habitats,120000
+2,J1,Buildings of cities or towns and villages,120100
+2,J2,Low density buildings,120200
+2,J3,Extractive industrial sites,120300
+2,J4,Transport networks and other constructed hard-surfaced areas,120400
+2,J5,Highly artificial man-made waters and associated structures,120500
+2,J6,Waste deposits,120600
