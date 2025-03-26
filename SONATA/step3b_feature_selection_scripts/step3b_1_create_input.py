@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 level = 2
 area = 'Pannonian'
-version = 2
+version = 1
 root = Path(f'/data/habitat/serbia/BIOS_visit_march/models/v{version}/L{level}/')
 classes_to_process = set()
 for f in root.glob("*class-*"):

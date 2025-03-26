@@ -46,8 +46,8 @@ import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 #own modules
-from fnc_Grdana import cGrdana
-from fnc_boruta import BorutaPy
+from SONATA.supporting_scripts.fnc_Grdana import cGrdana
+from SONATA.supporting_scripts.fnc_boruta import BorutaPy
 import matplotlib.pyplot as plt
 ############## END importing modules ##################
 
